@@ -6,6 +6,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Hi, I'm Benjamin Deitch.
 
-I'm a Volunteer Software Developer for the Internet Archive, looking for a full-time position. 
-
-Currently, I'm working on teaching myself the ins-and-outs of Haskell. 
+I'm studying at Brandeis as a part of the Masters of Computer Science program. As well, in my off time, I volunteer what time I can for the Internet Archive. 
